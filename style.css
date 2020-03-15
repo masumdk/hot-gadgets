@@ -1,0 +1,28 @@
+.bg-color{
+    background-color: rgb(247, 213, 219);
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now{
+    background-color: black;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.see-all{
+    color: tomato;
+}
+hr{
+    color: tomato;
+}
